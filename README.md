@@ -1,6 +1,6 @@
 # Enrique-Miranda
 
-# 👋 ¡Hola! Soy Luis Enrique Miranda Álvarez  
+# 👋 ¡Hola! Soy Luis Enrique Miranda Alvarez  
 
 🎯 **Data Science Student | Technical Specialist in Metrology & Standards (NOM, ISO, IEC)**  
 
@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos y recursos que re
 
 ## 📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-miranda-alvarez-5b6210357)  
-- ✉️ luis.enrique.miranda@example.com *(ajusta con tu correo real)*  
+- ✉️ luis.enrique.miranda@example.com
 
 ---
 
