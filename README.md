@@ -33,12 +33,12 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos y recursos que re
 ---
 
 ### 5. **Visualizaciones**
-Incluye gráficos o imágenes de tus notebooks/dashboards.
-```markdown
+
+
 ## 📊 Visualizaciones
 Ejemplo de análisis de datos con Matplotlib:
 
-![Gráfico de dispersión](https://raw.githubusercontent.com/usuario/repositorio/rama/imagen.png)
+
 
 
 ## 📫 Conecta conmigo
