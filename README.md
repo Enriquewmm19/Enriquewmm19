@@ -13,7 +13,33 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos y recursos que re
 ## 🚀 Objetivos
 - Construir un portafolio con proyectos de impacto real.  
 - Consolidar conocimientos en **instrumentos de medición y estándares internacionales**.  
-- Compartir guías visuales y comparativas para facilitar el aprendizaje técnico.  
+- Compartir guías visuales y comparativas para facilitar el aprendizaje técnico.
+
+ ## 🛠️ Tecnologías
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- SQL
+- Power BI
+- Git / GitHub
+- Normas técnicas: NOM, ISO, IEC
+
+## 📂 Tipos de proyectos
+- Exploratory Data Analysis (EDA)
+- Modelos de Machine Learning (clasificación, regresión, árboles de decisión)
+- Dashboards interactivos (Power BI, Python)
+- Web scraping y automatización
+- Documentación técnica y normalización
+
+
+---
+
+### 5. **Visualizaciones**
+Incluye gráficos o imágenes de tus notebooks/dashboards.
+```markdown
+## 📊 Visualizaciones
+Ejemplo de análisis de datos con Matplotlib:
+
+![Gráfico de dispersión](https://raw.githubusercontent.com/usuario/repositorio/rama/imagen.png)
+
 
 ## 📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-miranda-alvarez-5b6210357)  
