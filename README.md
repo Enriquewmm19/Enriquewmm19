@@ -33,7 +33,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos y recursos que re
 ---
 
 ### 5. **Visualizaciones**
-
+![Gráfico de dispersión](https://github.com/Enriquewmm19/Enriquewmm19/blob/main/dashboard.png?raw=true)
 
 ## 📊 Visualizaciones
 Ejemplo de análisis de datos con Matplotlib:
